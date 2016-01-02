@@ -7,3 +7,4 @@ urlpatterns = patterns('',
         url(r'^chat_room/', views.chat_room, name='chat_room'),
        
 )
+
